@@ -1,4 +1,4 @@
-# java_assignment
+# java_GUI_project
 Java gui assignment made using swing as part of 15SE205J
 
 
